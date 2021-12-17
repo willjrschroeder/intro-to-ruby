@@ -1,5 +1,5 @@
 dates = [2018, 2020, 2017]
 
-dates.each{ |x|
+dates.each do |x|
   puts x
-}
+end
